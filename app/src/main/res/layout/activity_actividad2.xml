@@ -36,6 +36,7 @@
         android:layout_height="wrap_content"
         android:inputType="text"
         android:layout_below="@id/lbltxt3"/>
+
     <Button android:id="@+id/btniniciarsesion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,6 +44,7 @@
         android:text="Iniciar sesion"
         android:layout_below="@id/txt2"
         android:onClick= "iniciarsesion"/>
+
     <TextView android:id="@+id/lbltxt4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
